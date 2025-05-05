@@ -1,4 +1,3 @@
-# . A data da entrega 04/05/2025
 # meu-jogo-colaborativo
 
 **Nome:** Mykael José Rodrigues Lima
